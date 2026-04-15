@@ -1,5 +1,5 @@
 # ai_agent_news
-AI Coding Agentのニュースを収集するためのリポジトリ。
+AI Coding Agentのリリース情報を収集するためのリポジトリ。
 
 Claude Code Routinesによって更新される。
 
